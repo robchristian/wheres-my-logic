@@ -4,9 +4,9 @@
   "description": "Demo various strategies for handling async logic with React",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "npx nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rob Christian <rm.rf.etc@gmail.com>",
-  "license": "MIT",
+  "license": "MIT"
 }
