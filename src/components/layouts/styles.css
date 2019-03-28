@@ -1,0 +1,8 @@
+
+#navbar {
+	list-style-type: none;
+}
+#navbar li {
+	margin: 0.5rem;
+	float: left;
+}
